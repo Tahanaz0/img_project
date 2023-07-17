@@ -10,9 +10,7 @@ function App() {
   const [MHover, setMHover] = useState(false);
   const [MouseHandle, setMouseHandle] = useState(false);
 
-  const handleMouseEnter = () => {
-    setIsHover(true);
-  };
+  const handleMouseEnter = () => {    setIsHover(true);  };
 
   const handleMouseLeave = () => {
     setIsHover(false);
