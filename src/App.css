@@ -1,0 +1,33 @@
+.decor{
+    display: flex;
+    flex-wrap: wrap;
+   
+   /* background-color: aqua; */
+    width: 25%;
+    height: 10vw;
+    margin: auto ;
+    margin-top: 20vw;
+    background-color:#fffae5;
+
+}
+.App{
+  
+  /* background-color: black; */
+}
+
+.img{
+    padding: 1%;
+    width: 70%;
+   
+    /* position: relative */
+}
+.imgDiv{
+  width: 20%;
+  height: 5vw ;
+  margin: auto;
+  padding: 1%;
+  /* background-color: rgb(104, 57, 57); */
+
+
+}
+
